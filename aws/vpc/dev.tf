@@ -15,8 +15,7 @@ module "vpc" {
 	Created_by = "Farrukh"
 	Department = "IT"
 	Bill = "CFO"
-	
-	}
+    } 
 }
 
 output "vpc" {
